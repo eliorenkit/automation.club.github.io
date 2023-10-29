@@ -1,2 +1,2 @@
-# automationclub.github.io
+# automation.club.github.io
 It is under CITK.
